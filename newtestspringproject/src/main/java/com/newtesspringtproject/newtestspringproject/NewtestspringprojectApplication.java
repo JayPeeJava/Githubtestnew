@@ -9,5 +9,5 @@ public class NewtestspringprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(NewtestspringprojectApplication.class, args);
 	}
-
+>>>> JP-dev test proj <<<<
 }
